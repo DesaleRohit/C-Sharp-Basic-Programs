@@ -23,22 +23,22 @@ namespace Demo
             {
                 if(a > c)
                 {
-                    System.Console.Write(a+" Biggest Number..");
+                    System.Console.Write(a+" is the Biggest Number..");
                 }
                 else
                 {
-                    System.Console.Write(c+" Biggest Number..");
+                    System.Console.Write(c+" is the Biggest Number..");
                 }
             }
             else
             {
                 if(b > c)
                 {
-                    System.Console.Write(b+" Biggest Number..");
+                    System.Console.Write(b+" is the Biggest Number..");
                 }
                 else
                 {
-                    System.Console.Write(c+" Biggest Number...");
+                    System.Console.Write(c+" is the Biggest Number...");
                 }
             }
 
