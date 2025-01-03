@@ -9,6 +9,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+            
           float math,os,cpp,wd,total,per=0;
       
           System.Console.Write("\nEnter the Marks of Mathematics:");
